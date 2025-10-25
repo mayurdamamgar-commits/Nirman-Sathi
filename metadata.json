@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nirman Sathi: Intelligent Construction Platform",
+  "description": "An intelligent platform to empower India's construction workforce with AI, digital tools, and a unified project ecosystem. Features include a resource hub, on-site reporting tools, and an AI co-pilot for architectural design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
